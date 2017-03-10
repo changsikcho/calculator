@@ -2,6 +2,6 @@
 main()
 {
 // fix printf
-printf
+printf ('Hello2');
 
 }
