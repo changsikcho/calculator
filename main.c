@@ -1,6 +1,6 @@
 main()
 {
 
-printf
+printf(add dgna);
 
 }
