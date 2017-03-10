@@ -2,6 +2,5 @@
 main()
 {
 // fix printf
-printf ('Hello2');
-
+printf ('kkk Hello2');
 }
